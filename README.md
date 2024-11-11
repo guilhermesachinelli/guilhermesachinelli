@@ -47,3 +47,5 @@
 <img src="https://raw.githubusercontent.com/guilhermesachinelli/guilhermesachinelli/output/snake.svg" alt="Snake animation" />
 
 ###
+
+###
